@@ -2,7 +2,7 @@ using MonkeysMVVM.ViewModels;
 
 namespace MonkeysMVVM;
 
-public partial class MonkeyPage : ContentPage
+public partial class MonkeyPage:ContentPage
 {
 	public MonkeyPage()
 	{

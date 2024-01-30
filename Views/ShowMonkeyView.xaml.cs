@@ -7,6 +7,6 @@ public partial class ShowMonkeyView : ContentPage
 	public ShowMonkeyView()
 	{
 		InitializeComponent();
-		this.BindingContext = new ShowMonkeyViewModel();
+		this.BindingContext = new MonkeyPageViewModel();
 	}
 }
